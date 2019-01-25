@@ -1,3 +1,10 @@
+
+# XAMPP 下载
+https://www.apachefriends.org/index.html
+
+# ThinkPHP 下载
+http://www.thinkphp.cn/down.html
+
 # …or create a new repository on the command line
 ```
 echo "# LAMP" >> README.md
