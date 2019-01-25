@@ -8,6 +8,7 @@ http://www.thinkphp.cn/down.html
 
 ## 2、ThinkPHP5.0完全开发手册
 https://www.kancloud.cn/manual/thinkphp5/118003
+Windows下XAMPP 的WEB根目录D:\xampp\htdocs
 
 
 # …or create a new repository on the command line
